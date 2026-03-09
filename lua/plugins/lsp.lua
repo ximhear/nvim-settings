@@ -30,6 +30,9 @@ return {
         unocss = {
           filetypes = { "html", "typescriptreact", "javascriptreact", "css", "svelte", "vue" },
         },
+        sourcekit = {
+          filetypes = { "swift", "objc", "objcpp" },
+        },
       },
     },
   },
